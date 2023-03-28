@@ -14,6 +14,19 @@ I WANT to add important events to a daily planner
 SO THAT I can manage my time effectively
 ```
 
+DEPLOYMENT
+  Repository can be found here: 
+  https://github.com/evviecurran/Daily-Planner.git
+
+  Website can be found here: 
+  <a href= "http://127.0.0.1:5500/Develop/index.html" target=blank>My Deployed Application</a>
+
+
+NEXT STEPS
+  1. I plan to continuously work on this until there are little to no flaws. 
+  2. I want the color scheme to change and make it more interactive for a user  so they can choose their colors 
+  3. I would like to extend the amount of days and time included on this webpage.
+
 ## Acceptance Criteria
 
 ```md
@@ -36,8 +49,9 @@ The following animation demonstrates the application functionality:
 
 <!-- @TODO: create ticket to review/update image) -->
 ![A user clicks on slots on the color-coded calendar and edits the events.](./Assets/05-third-party-apis-homework-demo.gif)
+ 
 
-## Grading Requirements
+ ## Grading Requirements
 
 > **Note**: If a Challenge assignment submission is marked as “0”, it is considered incomplete and will not count towards your graduation requirements. Examples of incomplete submissions include the following:
 >
